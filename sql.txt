@@ -1,0 +1,3 @@
+update controle set versaodb = '2';
+update controle set versaodb = '10';
+update controle set versaodb = '3226';
